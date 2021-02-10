@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1612987189 source:c:\users\ilyord\documents\cpp\codeblock\training_cpp\src\arme.cpp
+	"Arme.h"
+
+1612987960 source:c:\users\ilyord\documents\cpp\codeblock\training_cpp\src\personnage.cpp
+	"Personnage.h"
+
